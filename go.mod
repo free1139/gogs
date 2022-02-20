@@ -73,3 +73,5 @@ require (
 
 // +heroku goVersion go1.15
 // +heroku install ./
+
+replace unknwon.dev/clog/v2 => ../clog
